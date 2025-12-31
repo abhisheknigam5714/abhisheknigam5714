@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-<!# 💫 About Me:
+ 💫 
 A tech Enthusiast want to contribute on here by uploading projects and helps to add optimized solutions on other repo.
+Lokking for a Great Opportunity as a Software developer to build scalable web Application
 
 
 ## 🌐 Socials:
