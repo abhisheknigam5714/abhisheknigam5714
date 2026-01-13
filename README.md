@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
  💫 
 A tech Enthusiast want to contribute on here by uploading projects and helps to add optimized solutions on other repo.
