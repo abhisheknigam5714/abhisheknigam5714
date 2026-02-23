@@ -1,5 +1,4 @@
 # Hi there 👋  
-
 💫 Tech enthusiast passionate about building scalable web applications.  
 I actively contribute by uploading projects and providing optimized solutions on other repositories.  
 Currently seeking a great opportunity as a **Software Developer** to work on real-world, production-grade systems.
@@ -22,6 +21,15 @@ Currently seeking a great opportunity as a **Software Developer** to work on rea
 ### 🗄️ Database  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+### ⚙️ Skills & Integrations  
+✔ System Design Basics  
+✔ REST APIs  
+✔ JWT Authentication  
+✔ Email Authentication  
+✔ Payment Gateway Integration  
+✔ Microservices (Basics)  
+✔ Apache Kafka (Basics)
+
 ### 🎨 Frontend  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
@@ -35,19 +43,11 @@ Currently seeking a great opportunity as a **Software Developer** to work on rea
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)  
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-### ⚙️ Architecture & Integrations  
-✔ REST APIs  
-✔ JWT Authentication  
-✔ Email Authentication  
-✔ Payment Gateway Integration  
-✔ System Design Basics  
-✔ Microservices (Basics)  
-✔ Apache Kafka (Basics)
+
 
 ---
 
 ## 🧠 What I Can Contribute  
-
 ✅ Clean & maintainable backend APIs using Spring Boot  
 ✅ Secure authentication & authorization (JWT + Email Verification)  
 ✅ Scalable database design with MySQL & JPA  
