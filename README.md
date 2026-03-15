@@ -6,7 +6,7 @@
 🤝 Open to collaborating on exciting projects and contributing to the developer community.  
 💼 Actively looking for a **Software Developer** opportunity where I can grow and make an impact.
 
-Code is not just instructions for machines — it's a craft, and I take it seriously.....
+Code is not just instructions for machines — it's a craft, and I take it seriously.
 
 ---
 
