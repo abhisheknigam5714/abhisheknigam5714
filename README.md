@@ -2,7 +2,7 @@
 
 🚀 Passionate **Java Backend Developer** who loves building scalable, production-grade web applications.  
 💡 I enjoy turning real-world problems into clean, efficient, and maintainable code.  
-🌱 Always learning — currently deepening my expertise in **Microservices**, **Apache Kafka**, and **System Design**.  
+🌱 Always learning — currently deepening my expertise in **Microservices**, **Apache Kafka**, and **System Design**.
 🤝 Open to collaborating on exciting projects and contributing to the developer community.  
 💼 Actively looking for a **Software Developer** opportunity where I can grow and make an impact.
 
